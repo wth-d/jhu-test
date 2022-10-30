@@ -3,7 +3,7 @@ Check out these two webpages created by me:
 
 -> an html page: [page1](https://wth-d.github.io/jhu-test/html_course_project/index.html)
 
--> an html and css page: [Our Menu](https://wth-d.github.io/jhu-test/responsive_webpage1/index.html)
+-> a responsive html and css page: [Our Menu](https://wth-d.github.io/jhu-test/responsive_webpage1/index.html)
 
 ## Welcome to GitHub Pages
 
